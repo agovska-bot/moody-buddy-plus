@@ -1,0 +1,29 @@
+{
+  "short_name": "Moody Buddy+",
+  "name": "Moody Buddy+ | Your buddy for every feeling",
+  "description": "A new kind of digital journal for kids aged 7-12. Our mission is to help kids understand their feelings and build happy habits in a fun and private way.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#50C878",
+  "background_color": "#F9F8F6"
+}
